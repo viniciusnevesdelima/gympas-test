@@ -1,0 +1,22 @@
+Para melhor eficiência e padronização, o arquivo foi transformado em csv 
+com separação por virgulas .
+
+============ Pacote entity ===============
+Class Driver :
+Entidade que representa um piloto
+
+============Pacote format ================
+Class FormatValues :
+Formata os texto vindos do csv
+
+=============Pacote main =================
+Class Go:
+Método principal 
+
+=============Pacote read =================
+Class ReadCsv:
+Método que faz a conversão do csv para texto
+
+=============Pacote total ================
+Class RaceResults:
+Principais métodos com as soluções dos casos propostos
